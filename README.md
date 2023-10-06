@@ -3,4 +3,5 @@
 ## HOW TO PLAY
 
 > · Use arrows to move
+>
 > · Eat apples <3
